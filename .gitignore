@@ -1,3 +1,7 @@
+# Idea folder and project file
+.idea/
+*.iml
+
 # Compiled class file
 *.class
 
