@@ -2,7 +2,7 @@ package uk.roundtable;
 
 public class Main {
 
-    public static String[] chevaliers = new String[] {};
+    public static String[] chevaliers = new String[] {"Erec"};
 
     public static void main(String[] args) {
         System.out.println("Bonjour à tous.");
